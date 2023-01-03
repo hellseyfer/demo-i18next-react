@@ -1,0 +1,6 @@
+{
+  "description": {
+    "part1": "適切なtypefort関数を推測するには、typeaugmentationを使用してリソースタイプを上書きする必要があります。",
+    "part2": "次の@types/i18で例を確認してください。"
+  }
+}
